@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f407c40b-a9dc-4c8c-8a1d-13281f85897b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FarmFans32.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Rain.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/access/test 5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/access/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/experiemental/test 6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileEditor.java" afterDir="false" />
-    </list>
+    <list default="true" id="f407c40b-a9dc-4c8c-8a1d-13281f85897b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +46,7 @@
       <workItem from="1685106415968" duration="5021000" />
       <workItem from="1685369922874" duration="6146000" />
       <workItem from="1685418623490" duration="6027000" />
-      <workItem from="1685542490419" duration="1913000" />
+      <workItem from="1685542490419" duration="2240000" />
     </task>
     <servers />
   </component>
