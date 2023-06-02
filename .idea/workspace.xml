@@ -4,31 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f407c40b-a9dc-4c8c-8a1d-13281f85897b" name="Changes" comment="" />
+    <list default="true" id="f407c40b-a9dc-4c8c-8a1d-13281f85897b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calendar_events.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/EventCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/delete_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edit_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileSearch.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QF04937YsNS8aMNlkI5JfTFRy9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -46,11 +69,31 @@
       <workItem from="1685106415968" duration="5021000" />
       <workItem from="1685369922874" duration="6146000" />
       <workItem from="1685418623490" duration="6027000" />
-      <workItem from="1685542490419" duration="2240000" />
+      <workItem from="1685542490419" duration="3747000" />
+      <workItem from="1685628630356" duration="4992000" />
+      <workItem from="1685637375223" duration="429000" />
+      <workItem from="1685637815290" duration="14007000" />
+      <workItem from="1685711277989" duration="5995000" />
+      <workItem from="1685730990586" duration="20000" />
+      <workItem from="1685731021392" duration="1666000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
